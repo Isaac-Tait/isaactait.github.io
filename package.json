@@ -18,5 +18,9 @@
   "homepage": "https://github.com/Isaac-Tait/Isaac-Tait.github.io#readme",
   "dependencies": {
     "tailwindcss": "^2.2.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5"
   }
 }
